@@ -1,2 +1,2 @@
-<img src="https://github.com/Winterssssss/Winterssssss/blob/main/circle-cropped.png?raw=true" height=200>
+<img src="https://github.com/Winterssssss/Winterssssss/blob/main/circle-cropped.png?raw=true" height=300>
 
